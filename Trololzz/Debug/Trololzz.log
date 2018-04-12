@@ -1,0 +1,9 @@
+﻿  Start.cpp
+c:\users\kevin\desktop\csgo\kevin1.3\trololzz\func.h(38): warning C4091: 'typedef ': ignored on left of 'Store::player_info_t' when no variable is declared
+  Proc.cpp
+  Func.cpp
+c:\users\kevin\desktop\csgo\kevin1.3\trololzz\func.h(38): warning C4091: 'typedef ': ignored on left of 'Store::player_info_t' when no variable is declared
+  Drawings.cpp
+c:\users\kevin\desktop\csgo\kevin1.3\trololzz\func.h(38): warning C4091: 'typedef ': ignored on left of 'Store::player_info_t' when no variable is declared
+  Generating Code...
+  Trololzz.vcxproj -> C:\Users\kevin\Desktop\csgo\Kevin1.3\Debug\Trololzz.exe

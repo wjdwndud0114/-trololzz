@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{d1bd855a-9d94-4519-9527-2a02df624419}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Start.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Func.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Proc.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Drawings.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Func.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Have.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Proc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Start.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Drawings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Sound\Init.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\tD.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\tE.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\Updated.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\bD.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\bE.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\cD.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\cE.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\eD.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Sound\eE.wav">
+      <Filter>Sound</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
